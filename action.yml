@@ -1,4 +1,4 @@
-name: 'Secret Parser'
+name: 'Secret Parser Binary'
 author: 'James Webb'
 description: 'Replaces GitHub Actions secrets referenced in files with their raw values'
 inputs:
