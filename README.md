@@ -2,6 +2,8 @@
 
 Replaces GitHub Actions secrets referenced in files with their raw values.
 
+Forked from https://github.com/jwsi/secret-parser
+
 ## Inputs
 
 ### `filename`
